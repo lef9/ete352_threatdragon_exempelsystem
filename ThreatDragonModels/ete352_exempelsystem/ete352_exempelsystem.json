@@ -1019,8 +1019,8 @@
               "height": 60
             },
             "shape": "trust-boundary-box",
-            "id": "6b3568d2-dffa-4e5a-b0bf-6854172bd9d4",
             "zIndex": 26,
+            "id": "6b3568d2-dffa-4e5a-b0bf-6854172bd9d4",
             "data": {
               "type": "tm.BoundaryBox",
               "name": "Trust Boundary",
@@ -1039,8 +1039,28 @@
               "height": 60
             },
             "shape": "trust-boundary-box",
-            "id": "5a941602-09bc-4edc-81e1-e0eb04687696",
             "zIndex": 27,
+            "id": "5a941602-09bc-4edc-81e1-e0eb04687696",
+            "data": {
+              "type": "tm.BoundaryBox",
+              "name": "Trust Boundary",
+              "description": "",
+              "isTrustBoundary": true,
+              "hasOpenThreats": false
+            }
+          },
+          {
+            "position": {
+              "x": 562,
+              "y": 483
+            },
+            "size": {
+              "width": 128,
+              "height": 60
+            },
+            "shape": "trust-boundary-box",
+            "id": "147056de-a9d0-443a-92c2-b5de3368b5a0",
+            "zIndex": 28,
             "data": {
               "type": "tm.BoundaryBox",
               "name": "Trust Boundary",
